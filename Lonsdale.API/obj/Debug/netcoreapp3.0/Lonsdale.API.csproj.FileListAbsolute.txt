@@ -55,3 +55,11 @@
 /Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/obj/Debug/netcoreapp3.0/Lonsdale.API.csproj.CopyComplete
 /Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+/Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
+/Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
+/Users/axelhalintar/Repo/LonsdaleProject/Lonsdale.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
