@@ -4,6 +4,7 @@ LonsdaleProject is a codename for authentication portal. It is basically token s
 Lonsdale-SPA is the frontend file for you to test!
 
 INSTALLATION
+
 just fork & npm install
 then NPM serve 
 Enjoy
